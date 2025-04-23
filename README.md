@@ -1,4 +1,4 @@
-# 🎨 Autoencoder untuk Pewarnaan Gambar Sepak Bola
+# 🎨 Autoencoder untuk Pewarnaan Gambar Bola
 
 Proyek ini merupakan implementasi autoencoder sederhana menggunakan PyTorch untuk melakukan pewarnaan (colorization) gambar grayscale dari bola sepak. Model dilatih untuk mempelajari representasi dari gambar berwarna dan merekonstruksi warna berdasarkan input gambar grayscale/sketsa.
 
