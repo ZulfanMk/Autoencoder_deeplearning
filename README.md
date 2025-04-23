@@ -60,7 +60,7 @@ Epoch 640/640, Loss: 0.0086
 
 Berikut adalah contoh hasil prediksi dari model:
 
-(output.png)
+![output](output.png)
 
 > Model berhasil menghasilkan warna yang cukup realistis dan mendekati target, meskipun dataset kecil dan arsitektur masih sederhana.
 
