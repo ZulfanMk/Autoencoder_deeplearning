@@ -1,7 +1,3 @@
-Berikut adalah contoh isi `README.md` yang bisa kamu gunakan untuk dokumentasi GitHub proyek autoencoder colorization berbasis PyTorch:
-
----
-
 # 🎨 Autoencoder untuk Pewarnaan Gambar Sepak Bola
 
 Proyek ini merupakan implementasi autoencoder sederhana menggunakan PyTorch untuk melakukan pewarnaan (colorization) gambar grayscale dari bola sepak. Model dilatih untuk mempelajari representasi dari gambar berwarna dan merekonstruksi warna berdasarkan input gambar grayscale/sketsa.
@@ -64,9 +60,7 @@ Epoch 640/640, Loss: 0.0086
 
 Berikut adalah contoh hasil prediksi dari model:
 
-| Input (Grayscale) | Output (Generated) | Target (Asli) |
-|-------------------|---------------------|----------------|
-| ![input](bola/1.jpg) | ![output](ball/output_1.png) | ![target](output_images/target_1.png) |
+(output.png)
 
 > Model berhasil menghasilkan warna yang cukup realistis dan mendekati target, meskipun dataset kecil dan arsitektur masih sederhana.
 
