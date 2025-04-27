@@ -67,9 +67,4 @@ Berikut adalah contoh hasil prediksi dari model:
 ---
 
 
-## 📁 Output
-
-Output hasil prediksi model dapat di lihat pada file output.png
-```
-
 
