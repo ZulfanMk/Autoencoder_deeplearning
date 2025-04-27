@@ -15,7 +15,7 @@ Kedua folder memiliki gambar yang saling berkorespondensi satu sama lain (nama f
 
 Lokasi dataset:  
 `D:/auto_encoder/bola`  
-`D:/autoencoder/ball`
+`D:/aut_oencoder/ball`
 
 ---
 
@@ -72,13 +72,4 @@ Berikut adalah contoh hasil prediksi dari model:
 Output hasil prediksi model dapat di lihat pada file output.png
 ```
 
----
-
-## 📌 Catatan
-
-- Dataset sangat spesifik (bola sepak) dan jumlahnya terbatas.
-- Untuk performa lebih baik, dapat digunakan model yang lebih kompleks seperti U-Net atau ResNet.
-- Augmentasi data dan pelatihan jangka panjang juga bisa meningkatkan akurasi warna.
-
----
 
